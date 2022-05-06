@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "trucos-amazon-primevideo-ksrD--620x349@abc.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
